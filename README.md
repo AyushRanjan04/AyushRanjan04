@@ -1,12 +1,17 @@
 @@ -1,24 +1,24 @@
+
 <h1 align="center">Hi, I'm Ayush Ranjan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Data+Analyst+Enthusiast+📊;Turning+Data+into+Actionable+Insights+💡)</div>](https://git.io/typing-svg)
 <hr>
+
 ### 👨‍💻 About Me:
+
 <h4 align="center">
   Enthusiastic and detail-oriented Data Analyst with a solid foundation in data manipulation and analysis, complemented by hands-on experience with key tools and technologies. Proficient in Power BI, SQL, and Python, with a strong understanding of Exploratory Data Analysis (EDA) and Machine Learning (ML) enthusiasts. Adapt at transforming complex datasets into actionable insights and compelling visualizations to drive strategic decision-making. Eager to leverage analytical skills and technical expertise to contribute to data-driven projects and enhance organizational performance.
 .</h4>
 <br/>
+
 - 🌱 Currently learning advanced machine learning techniques.
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines.
@@ -18,8 +23,11 @@
 - 📧 You can reach me at [ayushranjan0104@gmail.com](mailto:ayushranjan0104@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-ranjan-20670b2b7/)
 
 ---
+
 <img align="center" width="100%" height="400px" src="https://github.com/rbhomale17/rbhomale17/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef">
+
 ---
+
 **<i><h3 align="left">Course Badges:</h3></i>**
  <div>
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="https://cdn.qwiklabs.com/KxVM0SHGIb%2BwtML8Qh2Mlkk1uhzIoUNmxQyAUcGz5fk%3D" alt="2">
@@ -31,13 +39,18 @@
 <!--       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="8">
       <img align="center" width="150px" height="150px" style="object-fit: contain;" src="" alt="9"> -->
 </div>
+
+
 ### 🚀 What Do I Do? <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50">
+
 <h4>✅ Passionate about turning data into actionable insights that drive success.</h4>
 <h4>✅ Always curious and eager to learn new data analysis techniques and tools.</h4>
 <h4>✅ Enjoy solving complex problems with creative data solutions.</h4>
 <h4>✅ Value teamwork and thrive in collaborative, dynamic settings.</h4>
 <h4>✅ Excited to connect and explore the transformative power of data together!</h4>
+
 <hr>
+
 ### 🛠️ Tech Stack & Working Tools:
 <p>
 <div align="center" style="display: flex; flex-wrap: wrap;">
@@ -56,9 +69,12 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 </p>
+
 --- 
 **<h3 align="left">Connect with me:</h3>**
+
 **Email:- ayushranjan0104@gmail.com**
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/ayush-ranjan-20670b2b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -73,6 +89,8 @@
     <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
   </a>
 </div>
+
 <p align="left">
 </p>
+
 ---
