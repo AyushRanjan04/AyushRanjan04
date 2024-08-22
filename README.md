@@ -4,7 +4,7 @@
 <hr>
 ### 👨‍💻 About Me:
 <h4 align="center">
-  Enthusiastic and detail-oriented Data Analyst with a solid foundation in data manipulation and analysis, complemented by hands-on experience with key tools and technologies. Proficient in Power BI, SQL, and Python, with a strong understanding of Exploratory Data Analysis (EDA) and Machine Learning (ML) enthusiasts. Adept at transforming complex datasets into actionable insights and compelling visualizations to drive strategic decision-making. Eager to leverage analytical skills and technical expertise to contribute to data-driven projects and enhance organizational performance.
+  Enthusiastic and detail-oriented Data Analyst with a solid foundation in data manipulation and analysis, complemented by hands-on experience with key tools and technologies. Proficient in Power BI, SQL, and Python, with a strong understanding of Exploratory Data Analysis (EDA) and Machine Learning (ML) enthusiasts. Adapt at transforming complex datasets into actionable insights and compelling visualizations to drive strategic decision-making. Eager to leverage analytical skills and technical expertise to contribute to data-driven projects and enhance organizational performance.
 .</h4>
 <br/>
 - 🌱 Currently learning advanced machine learning techniques.
