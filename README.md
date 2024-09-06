@@ -74,6 +74,8 @@
 
 **Email:- ayushranjan0104@gmail.com**
 
+**Phone:- +916204238237**
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/ayush-ranjan-20670b2b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
