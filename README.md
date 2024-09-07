@@ -1,3 +1,5 @@
+<img align="center" width="100%" height="400px" src="https://github.com/rbhomale17/rbhomale17/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef">
+
 
 <h1 align="center">Hi, I'm Ayush Ranjan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -22,8 +24,6 @@
 - 📧 You can reach me at [ayushranjan0104@gmail.com](mailto:ayushranjan0104@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-ranjan-20670b2b7/)
 
 ---
-
-<img align="center" width="100%" height="400px" src="https://github.com/rbhomale17/rbhomale17/assets/121092445/5809b6eb-0447-4f8b-a4e8-4fb8149528ef">
 
 ---
 
