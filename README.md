@@ -76,9 +76,10 @@
 <!--   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=rbhomale17" alt="Twitter Badge"/>
-  </a>
+
+### GitHub Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=AyushRanjan04&color=blue&style=flat-square)
+
 </div>
 
 <p align="left">
