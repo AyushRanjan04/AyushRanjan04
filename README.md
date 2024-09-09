@@ -25,6 +25,37 @@
 
 ---
 
+### 💻 Projects
+
+#### 1. **Data Analysis on COVID19-India**
+   - **Description**: Developed a web scraper to collect covid19 information from covid19 India websites for death vs recovery analysis. Created dashbords in Excel to  visualize the insights 
+   - **Tech Stack**: <p>
+  <div align="center" style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/beautifulsoup-%233C5C5C.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+  <img src="https://img.shields.io/badge/selenium-%234B9ED1.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+  </div>
+  </p>
+  
+- **Highlights**: Automated data collection, saving over 10 hours of manual work per week.
+- **GitHub Repo**: [COVID19-India Analysis](https://github.com/AyushRanjan04/COVID19-India-Analysis)
+#### 2. **Dream-Cricket-League **
+   - **Description**: Analyzed dream cricket league data using Python and SQL to uncover trends and insights. Created dashboards in Power BI to visualize key metrics.
+   - **Tech Stack**: <p>
+<div align="center" style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/sql-%230072C6.svg?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234F5D95.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
+</p>
+
+   - **Highlights**: Implemented real-time player performance tracking with live score updates.
+   - **GitHub Repo**: [Dream-Cricket-League](https://github.com/AyushRanjan04/Dream-Cricket-League)
+
 ---
 
 
