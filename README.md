@@ -17,7 +17,7 @@
 - 📊 Experienced in handling large datasets and deriving actionable insights.
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Live in patna, Bihar.
-- 🔗 Find my cv at [here](https://drive.google.com/file/d/1ULRnYLmdcmg9L4GoCP3rKiv6NaNnijro/view?usp=sharing)
+- 🔗 Find my cv at [here](https://drive.google.com/file/d/1RtFqpRQQzlOj2D8eTe7TJDjwGxXpX7gd/view?usp=sharing)
 - 💡 "I’m an analyst by day, an actor by evening, and a gamer by night."
 - 👨‍💻 My hobby is to Bike riding , explore new things, and sprituality 
 - 👨‍💻 My hobby is to Bike riding , explore new things, and Understanding sprituality 
